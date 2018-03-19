@@ -14,7 +14,8 @@ namespace TiposVarios
             string sv = @"C:\\Users\\Ana\\Documents\u+0194";
 
             Console.WriteLine(" " + strn + " ");
-            Console.WriteLine(" " + sv + " " );
+            Console.WriteLine(" " + sv + " " );
+
 
         }
     }
